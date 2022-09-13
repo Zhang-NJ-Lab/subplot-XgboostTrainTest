@@ -1,2 +1,2 @@
 # subplot-XgboostTrainTest
-subplot and Xgboost ML modoling
+subplot and Xgboost ML modeling
